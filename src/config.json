@@ -2,7 +2,7 @@
   "title": "全国 Rowing map",
   "description": "",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "logo_image_url": "https://github.com/pine5274/map_test/blob/master/public/logo.svg",
+  "background_image_url": "https://github.com/pine5274/map_test/blob/master/public/background.png",
   "primary_color": "#d2691e"
 }
