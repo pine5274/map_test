@@ -1,8 +1,8 @@
 {
-  "title": "全国 Rowing map",
-  "description": "",
+  "title": "全国 Rowing Map",
+  "description": "Rowingのマップです。",
   "form_url": "",
-  "logo_image_url": "https://pine5274.github.io/map_test/logo.svg",
+  "logo_image_url": "https://pine5274.github.io/map_test/kogikaji.svg",
   "background_image_url": "https://pine5274.github.io/map_test/background.jpg",
   "primary_color": "#d2691e"
 }
