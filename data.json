@@ -34,17 +34,21 @@
       "135.567096",
       "大阪大学漕艇部",
       "大阪大学漕艇部の艇庫です。",
-      "",
-      "",
+      "osakaunirowing",
+      "osaka_rowing",
       "https://osakaunivrowing.wixsite.com/osakarowing-info"
     ],
     [
       "",
       "艇庫",
+      "https://github.com/pine5274/map_test/blob/master/public/kobe.png",
+      "34.735765",
+      "135.527023",
+      "神戸大学漕艇部",
+      "神戸大学漕艇部の艇庫です。",
       "",
-      "",
-      "",
-      "神戸大学漕艇部"
+      "kobe_rowingteam",
+      "https://kurchp.wixsite.com/kobe-u-rowing"
     ],
     [
       "",
