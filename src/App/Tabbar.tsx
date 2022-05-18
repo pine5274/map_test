@@ -13,7 +13,7 @@ const Content = () => {
         <li><Link to="/list"><div className="icon"><FaList /></div><div className="text">一覧</div></Link></li>
         <li><Link to="/category"><div className="icon"><FaSearch /></div><div className="text">カテゴリ</div></Link></li>
         <li><Link to="/images"><div className="icon"><FaCamera /></div><div className="text">写真から探す</div></Link></li>
-        <li><Link to="/about"><div className="icon"><AiOutlineAppstore /></div><div className="text">マップについて</div></Link></li>
+        {/* <li><Link to="/about"><div className="icon"><AiOutlineAppstore /></div><div className="text">マップについて</div></Link></li> */}
       </ul>
     </div>
   );
