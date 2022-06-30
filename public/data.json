@@ -1,54 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J83",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "",
-      "艇庫",
-      "https://pine5274.github.io/map_test/osaka.png",
-      "34.753085",
-      "135.567096",
-      "大阪大学漕艇部",
-      "大阪大学漕艇部の艇庫です。",
-      "osakaunirowing",
-      "osaka_rowing",
-      "https://osakaunivrowing.wixsite.com/osakarowing-info"
-    ],
-    [
-      "",
-      "艇庫",
-      "https://pine5274.github.io/map_test/kobe.png",
-      "34.735765",
-      "135.527023",
-      "神戸大学漕艇部",
-      "神戸大学漕艇部の艇庫です。",
-      "",
-      "kobe_rowingteam",
-      "https://kurchp.wixsite.com/kobe-u-rowing"
-    ],
-    [
-      "",
-      "コース",
-      "https://pine5274.github.io/map_test/hamadera.png",
-      "34.535365",
-      "135.43123",
-      "大阪府立漕艇センター",
-      "浜寺コースは、浜寺公園と泉北一区臨海埋立地とに挟まれた巾２００メートルの 浜寺水路を使用し、浜寺大橋より高石漁港に至るまでのうち２０００メートルをコースとして利用しています。",
-      "",
-      "",
-      "https://www.pref.osaka.lg.jp/hokentaiku/sisetu/souteigaiyou.html"
-    ]
-  ]
+  "error": {
+    "code": 500,
+    "message": "Internal error encountered.",
+    "status": "INTERNAL"
+  }
 }
